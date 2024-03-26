@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChallengeKosmos</string>
+    <string name="image_content_description">Imagen del personaje</string>
+    <string name="character_name">Nobre del personaje</string>
+    <string name="show_details">Ver detalle</string>
+    <string name="hide_details">Ocultar detalle</string>
+    <string name="details_title_status">Estatus: %s</string>
+    <string name="details_title_species">Especie: %s</string>
+    <string name="details_title_type">Tipo: %s</string>
+    <string name="details_title_gender">Género: %s</string>
+    <string name="details_title_origin">Origen: %s</string>
+    <string name="details_title_location">Ubicación: %s</string>
+</resources>
